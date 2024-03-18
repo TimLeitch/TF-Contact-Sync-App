@@ -1,0 +1,7 @@
+/venv
+.env
+sync_results.txt
+error_log.txt
+checked_users.json
+contact_list.csv
+todo.txt
