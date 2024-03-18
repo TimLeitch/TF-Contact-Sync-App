@@ -10,6 +10,16 @@ Before using this application, ensure you have the following:
 - A Microsoft Azure subscription and permission to register applications in Azure Active Directory (Azure AD).
 - Registered an application in Azure AD to obtain the necessary credentials (client ID, client secret) for API access.
 
+## Installation
+
+To install the application, clone the repository to your local machine and navigate to the application directory in your terminal. Then, install the required Python packages using pip:
+
+```bash
+pip install -r requirements.txt
+``` 
+
+This will install the required packages for the application to run.
+
 ## Configuration
 
 The application requires specific environment variables to be set for authentication with Microsoft Graph and operation. These variables are to be provided in a .env file located at the root of the application directory.
