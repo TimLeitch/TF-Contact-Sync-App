@@ -5,3 +5,4 @@ error_log.txt
 checked_users.json
 contact_list.csv
 todo.txt
+__pycache__
